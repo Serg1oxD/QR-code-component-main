@@ -26,7 +26,8 @@ body{
 }
 
 .img__container img{
-    width: 250px;
+    display: block;
+    max-width: 90%;
     border-radius: 5%;
 }
 
@@ -41,7 +42,6 @@ body{
 
 .container__h1{
     color: hsl(218, 44%, 22%);
-    max-width: 25ch;
 }
 
 .container__h3{
@@ -49,16 +49,5 @@ body{
     font-weight: 400;
     margin-bottom: 3rem;
     color: #999;
-    max-width: 25ch;
     font-size: 15px;
-}
-
-@media only screen and (max-width: 375px){
-    .container{
-        position: absolute;
-        top: 10%;
-        left: 1%;
-        width: 85%;
-        margin: auto;
-    }
 }
