@@ -10,5 +10,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Links
 
-- Solution URL: [https://github.com/sergiopen/QR-Code-Desing](https://github.com/sergiopen/QR-Code-Desing)
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component](https://www.frontendmentor.io/solutions/qr-code-component-responsive-only-for-375px-BFQu9rx9dn)
 - Live Site URL: [sergiopen.github.io/QR-Code-Desing](https://sergiopen.github.io/QR-Code-Desing/)
+
+## Built With
+
+- HTML5
+- CSS3
+
+## Author
+
+- [sergiopen](https://sergiopen.github.com/)
