@@ -13,9 +13,9 @@ body{
     background-color: hsl(212, 45%, 89%);
 }
 
-.container{
+.main{
     background-color: #fff;
-    width: 20%;
+    max-width: 20%;
     border-radius: 5%;
 }
 
@@ -44,7 +44,7 @@ body{
     color: hsl(218, 44%, 22%);
 }
 
-.container__h3{
+.container__p{
     margin-top: -.1rem;
     font-weight: 400;
     margin-bottom: 3rem;
@@ -52,14 +52,14 @@ body{
     font-size: 15px;
 }
 
-@media screen and (max-width:720px) {
-    .container{
-        width: 35%;
+@media screen and (max-width:480px) {
+    .main{
+        max-width: 45%;
     }
 }
 
-@media screen and (max-width:480px) {
-    .container{
-        width: 45%;
+@media screen and (max-width:720px) {
+    .main{
+        max-width: 40%;
     }
 }
