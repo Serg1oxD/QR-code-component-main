@@ -1,4 +1,4 @@
-# Frontend Mentor - QR code component
+# Challenge - QR code component
 
 ## The challenge
 
